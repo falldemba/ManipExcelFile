@@ -1,5 +1,6 @@
+#!/usr/bin/env python
 import xlrd
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 document = xlrd.open_workbook("document.xlsx")
 
